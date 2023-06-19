@@ -1,0 +1,3 @@
+echo "please enter your username"
+echo "Welcome $username"
+echo "How can we help you $username?"
